@@ -1,0 +1,84 @@
+/* These styles override the zurb base styles  */
+
+/* -------------------------------------------------- 
+   Table of Contents
+-----------------------------------------------------
+:: Shared Styles
+:: Page Name 1
+:: Page Name 2
+*/
+
+
+/* -----------------------------------------
+   Shared Styles
+----------------------------------------- */
+/* Navigation and Menus */
+.nav-bar {
+	background:  transparent;
+}
+.nav-bar > li {
+	border: none;
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
+}
+.nav-bar > li > a:first-child {
+	font-size: 18px;
+}
+.nav-bar > li > a {
+	font-size: 16px;
+}
+.nav-bar > li:hover {
+	background: transparent;
+}
+.nav-bar > li:last-child {
+	border:  none;
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
+}
+.nav-bar > li.has-flyout > a.flyout-toggle {
+	position: relative;
+	border:  0;
+	padding: 0 10px;
+	background: transparent;
+	
+}
+.nav-bar > li.has-flyout > a:first-child::after {
+	display:  none;
+}
+
+/* Typography */
+h1, h2, h3, h4, h5, h6, .nav-bar li a{
+	font-family: 'Trebuchet', serif;
+	text-transform: uppercase;
+	color: #DC9415;
+}
+.filter-menu a.button, a.button{
+	font-family: 'Trebuchet', serif;
+	text-transform: capitalize;
+	font-weight: 800;
+	}
+body, p, a, li {
+	font-family: 'Trebuchet', serif;
+	font-weight: 700;
+}
+body {
+	color:  #ffd;
+}
+
+blockquote, blockquote p {
+	color:  #bbbb99;
+}
+/* -----------------------------------------
+   Page Name 1
+----------------------------------------- */
+
+
+
+
+/* -----------------------------------------
+   Page Name 2
+----------------------------------------- */
+
+
