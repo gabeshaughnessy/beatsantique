@@ -56,14 +56,14 @@ jQuery(document).ready(function($){
 	
 	function windowBox(windowBox, boxWidth, boxHeight){
 	var $this = $(windowBox);
-	console.log($this);
+	//console.log($this);
 	var $imgSrc = $this.attr('src');
 	var $imgWidth = $this.attr('width');
 	var $imgHeight = $this.attr('height');
 	var $boxWidth = boxWidth;
 	var $boxHeight = boxHeight;
 	
-	console.log($imgSrc, ' - imgSrc ',$imgWidth,' - imgWidth ',$imgHeight,' - imgHeight ', $boxWidth,' - boxWidth ', $boxHeight,' - boxHeight');
+	//console.log($imgSrc, ' - imgSrc ',$imgWidth,' - imgWidth ',$imgHeight,' - imgHeight ', $boxWidth,' - boxWidth ', $boxHeight,' - boxHeight');
 	var $boxID = $this.attr('id');
 	$this.replaceWith('<div class="window-box-rendered" id="'+ $boxID +'"></div>');
 	windowBox = $('#'+$boxID+'.window-box-rendered');

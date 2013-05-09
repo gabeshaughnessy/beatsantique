@@ -9,6 +9,8 @@
 </div><!-- end of the wrapper -->
 	<div id="bottom">
 	</div>
+		<?php require_once('tracking-scripts.php'); ?>
+	
 </body>
 
 </html>

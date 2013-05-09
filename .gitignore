@@ -22,6 +22,8 @@ wp-content/themes/genesis
 wp-content/themes/soundcheck
 wp-content/themes/thesis_18
 
+beatsantique-wpengine.esproj/
+
 # wpengine specific
 .smushit-status
 .gitattributes
