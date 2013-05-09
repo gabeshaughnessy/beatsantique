@@ -111,7 +111,7 @@ endwhile;
 // Reset Post Data
 wp_reset_postdata();
 ?></div>
-<p>We have tons of merch available at our partner store with Killthe8.com, including <a href="http://www.kt8merch.com/store/pages/17718">Bundles,</a> <a href="http://www.kt8merch.com/store/pages/17718?t=guys">Men's</a> and <a href="http://www.kt8merch.com/store/pages/17718?t=girls">Women's Clothing,</a> <a href="http://www.kt8merch.com/store/pages/17718?t=accessories">Accessories</a> and <a href="http://www.kt8merch.com/store/pages/gift-certificate">Gift Cards.</a> </p><a class="button" href="http://www.kt8merch.com/store/pages/17718"><strong> Check it out!</strong></a> 
+<p>We have tons of merch available at our partner store with Killthe8.com, including <a href="http://www.kt8merch.com/store/pages/17718">Bundles,</a> <a href="http://www.kt8merch.com/store/pages/17718?t=guys">Men's</a> and <a href="http://www.kt8merch.com/store/pages/17718?t=girls">Women's Clothing,</a> <a href="http://www.kt8merch.com/store/pages/17718?t=accessories">Accessories</a> and <a href="http://www.kt8merch.com/store/pages/gift-certificate">Gift Cards.</a> </p><a class="button" href="http://www.kt8merch.com/store/pages/beatsantique"><strong> Check it out!</strong></a> 
 </div>
 <?php
 get_footer();
